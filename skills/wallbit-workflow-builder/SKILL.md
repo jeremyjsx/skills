@@ -1,6 +1,6 @@
 ---
 name: wallbit-workflow-builder
-description: Build, edit, and validate YAML workflow specs for the wallbit-cli `workflow run` command. Use when the user mentions wallbit workflow, workflow.yaml for wallbit, `wallbit workflow run`, `wallbit workflow validate`, wants to chain Wallbit API calls (rates, balance, wallets, assets, account_details, transactions, cards, trades, roboadvisor, apikey) declaratively, or pastes a YAML containing `version: 1` together with `steps:` referencing wallbit run ids like `rates.get`, `balance.get_checking`, `trades.create`, etc.
+description: "Build, edit, and validate YAML workflow specs for the wallbit-cli `workflow run` command. Use when the user mentions wallbit workflow, workflow.yaml for wallbit, `wallbit workflow run`, `wallbit workflow validate`, wants to chain Wallbit API calls (rates, balance, wallets, assets, account_details, transactions, cards, trades, roboadvisor, apikey) declaratively, or pastes a YAML containing `version: 1` together with `steps:` referencing wallbit run ids like `rates.get`, `balance.get_checking`, `trades.create`, etc."
 ---
 
 # wallbit-cli workflow builder
